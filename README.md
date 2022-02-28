@@ -3,8 +3,10 @@
 I was wanted to adventure my self but it took long so I use on **Tailwindcss templete activity**.
 I use border and colors of fonts to style it.
 
-- Hyeju Hong [Hyeju Hong](https://github.com/Hyeju1996);
-- instructor: [Ashlyn](https://github.com/lilyx13);
+- Hyeju Hong [Hyeju Hong](https://github.com/Hyeju1996)
+- instructor: [Ashlyn](https://github.com/lilyx13)
+- [GitHub](https://github.com/Hyeju1996/cpnt201-a3)
+- [GitHub live](https://hyeju1996.github.io/cpnt201-a3/)
 
 ## problem and solved
 
